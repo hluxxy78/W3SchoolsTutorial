@@ -1,2 +1,7 @@
 its a file
+<<<<<<< HEAD
 we fixed an error
+=======
+Testing out branches
+Merging tests
+>>>>>>> hello-world-images
